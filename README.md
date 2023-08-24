@@ -1,6 +1,5 @@
-# DIO - Resumos Git e GitHub
-
-Repositorio para armazenar resumos sobre Git e GitHub do Bootcamp Santander 2023 - Ciência de Dados com Python - Curso atual é *Versionamento de Código com Git eGitHub* [Digital Innovation One](https://web.dio.me)
+#gggggggggggggggggv
+Repositorio para armazenar resumos sobre Git e GitHub do Bootcamp Santander 202 - Ciência de Dados com Python - Curso atual é *Versionamento de Código com Git e GitHub* [Digital Innovation One](https://web.dio.me)
 
 ----
 
@@ -13,13 +12,13 @@ Repositorio para armazenar resumos sobre Git e GitHub do Bootcamp Santander 2023
 - [Documentação GitHub](https://docs.github.com/)
 
 
-  -----
+-----
 
   
 
 ## 💻 Resumos das Aulas
 
-| Aulas                                                        | Resumos |
+| Aulas                                                         | Resumos |
 | ------------------------------------------------------------ | ------- |
 | Criando e Clonando Repositórios                              |         |
 | Salvando Alterações no Repositorio Local                     |         |
