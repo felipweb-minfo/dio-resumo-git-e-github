@@ -1,4 +1,4 @@
-#gggggggggggggggggv
+#
 Repositorio para armazenar resumos sobre Git e GitHub do Bootcamp Santander 202 - Ciência de Dados com Python - Curso atual é *Versionamento de Código com Git e GitHub* [Digital Innovation One](https://web.dio.me)
 
 ----
